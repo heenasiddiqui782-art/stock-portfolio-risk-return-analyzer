@@ -26,7 +26,7 @@ The portfolio outperformed its target return (13%) while keeping volatility low 
 
 ## 🖼️ Dashboard Preview
 
-<img width="939" height="385" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/f9bbe2e0-9de6-4ba8-8254-b2ab2dcef353" />
+<img width="2200" height="1400" alt="dashboard_Screenshot" src="https://github.com/user-attachments/assets/b0bf66db-99f7-41ab-974c-a5f969b17e14" />
 
 
 
