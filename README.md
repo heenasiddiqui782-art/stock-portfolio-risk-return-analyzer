@@ -1,4 +1,5 @@
 # 📊 Stock Market Portfolio Risk & Return Analyzer
+[Download the Excel Workbook](Portfolio_Risk_Return_Analyzer.xlsx)
 
 An Excel-based portfolio analytics tool that models a ₹10,00,000 investment across 10 assets, calculates risk-adjusted performance, and benchmarks it against the NIFTY 50 — built entirely with live formulas, not hardcoded values.
 
@@ -25,7 +26,8 @@ The portfolio outperformed its target return (13%) while keeping volatility low 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+width="939" height="385" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/539f985b-423b-4feb-a6c5-cf2eb293553c" />
+
 
 *KPI cards, portfolio vs. benchmark growth, asset allocation, and per-asset return/volatility — all on one screen.*
 
@@ -86,4 +88,6 @@ Building this project reinforced how risk and return interact in a diversified p
 
 ## 📬 Contact
 
-*Add your name, LinkedIn, and email here.*
+Heena Siddiqui
+www.linkedin.com/in/heenasiddiqui
+heenasiddiqui782@gmail.com
