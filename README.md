@@ -26,7 +26,8 @@ The portfolio outperformed its target return (13%) while keeping volatility low 
 
 ## 🖼️ Dashboard Preview
 
-width="939" height="385" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/539f985b-423b-4feb-a6c5-cf2eb293553c" />
+<img width="939" height="385" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/f9bbe2e0-9de6-4ba8-8254-b2ab2dcef353" />
+
 
 
 *KPI cards, portfolio vs. benchmark growth, asset allocation, and per-asset return/volatility — all on one screen.*
